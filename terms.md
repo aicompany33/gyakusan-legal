@@ -107,7 +107,7 @@ permalink: /terms.html
 本規約に関するご質問・ご意見は、以下までご連絡ください。
 
 - 運営者: nogemu
-- 連絡先: gyakusanstudy.support@gmail.com
+- 連絡先: support@nogemu.com
 
 ---
 
